@@ -1,0 +1,14 @@
+body{
+    background-color: red;
+}
+
+.container{
+    background-color:yellow;
+    color: red;
+}
+
+.container-fluid{
+    background-color: green;
+    color: white;
+    text-align: justify;
+}
