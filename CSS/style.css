@@ -1,14 +1,9 @@
 body{
-    background-color: red;
+    background-color: white;
 }
 
 .container{
-    background-color:yellow;
-    color: red;
+    background-color:black;
+    color: white;
 }
 
-.container-fluid{
-    background-color: green;
-    color: white;
-    text-align: justify;
-}
